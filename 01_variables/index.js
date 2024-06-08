@@ -1,2 +1,7 @@
 const score = 5;
-console.log(score)
+let myName = "Noman";
+var age = 28;
+
+
+
+console.table([score,myName,age])
